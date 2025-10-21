@@ -16,3 +16,4 @@ while True:
             print("❗Please enter a valid number (0-100) 🙏")
     except ValueError:
         print("❗Invalid Number!! Try again") 
+
